@@ -1,4 +1,4 @@
-# EzNuke
+
 ## _Open Source Dicord Account Nuker_
 
 This nuker abuses the discord api to mess with user accounts.
